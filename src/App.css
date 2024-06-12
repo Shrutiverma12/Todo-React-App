@@ -1,0 +1,10 @@
+input {
+  width: 100%;
+}
+
+.kg-row {
+  margin: 10px 5px;
+}
+.kg-button {
+  min-width: 100px;
+}
